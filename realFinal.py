@@ -1,4 +1,3 @@
-
 import numpy as np
 import cv2
 import imutils
@@ -9,7 +8,10 @@ import finger_log
 WIDTH = 400
 HEIGHT = 300
 
-cap = cv2.VideoCapture(1)
+lower = np.array([0,10,0], dtype="uint8")
+upper = np.array([20,255,255], dtype="uint8")
+
+cap = cv2.VideoCapture(0)
 
 #*********************************************************
 #**************************setup**************************
@@ -48,7 +50,6 @@ while(True):
     extTop = tuple(c[c[:, :, 1].argmin()][0])
     extBot = tuple(c[c[:, :, 1].argmax()][0])
     '''
-
 #    extLeft = tuple(c[c[:, :, 0].argmin()][0])
 #    extRight = tuple(c[c[:, :, 0].argmax()][0])
 #    extTop = tuple(c[c[:, :, 1].argmin()][0])
@@ -79,6 +80,16 @@ while(True):
 #    print(aextRight)
 #    print(aextTop)
 #    print(aextBot)
+
+    aextTop[0] = aextTop[0]+(aextTop[0]-aextLeft[0])
+    aextTop[1] = aextTop[1]-(aextLeft[1]-aextTop[1])
+    aextRight[0] = aextRight[0]+(aextRight[0]-aextBot[0])
+    aextRight[1] = aextRight[1]-(aextBot[1]-aextRight[1])
+
+    aextLeft[0] = aextLeft[0]-int(np.round_(0.1*(aextTop[0]-aextLeft[0])))
+    aextLeft[1] = aextLeft[1]+int(np.round_(0.1*(aextLeft[1]-aextTop[1])))
+    aextBot[0] = aextBot[0]-int(np.round_(0.1*(aextRight[0]-aextBot[0])))
+    aextBot[1] = aextBot[1]+int(np.round_(0.1*(aextBot[1]-aextRight[1])))
     aextLeft += [-OFFSET,0]
     aextRight += [OFFSET,0]
     aextTop += [0,-OFFSET]
@@ -291,13 +302,26 @@ while (True):
     blurValue = cv2.getTrackbarPos('trh2', 'trackbar')
     #1 - read
     ret, frame = cap.read()
+    #gaussian blur 적용
+    frame1 = cv2.blur(frame,(10,10))
     
+    #영상을 RGB에서 HSV로 바꿈
+    img_hsv = cv2.cvtColor(frame1, cv2.COLOR_BGR2HSV)
+
+    #살색 히스토그램에 대한 Range적용
+    img_hand = cv2.inRange(img_hsv, lower, upper)
+    
+    #이진화된 이미지의 잡음 제거
+    kernel = np.ones((5, 5), np.uint8)
+    result = cv2.erode(img_hand, kernel, iterations = 1)
+    
+    cv2.imshow("result",result)
     #2 - Rotate
     image_rotated = imutils.rotate_bound(frame, 45)
-    
+    image_rotated1 = imutils.rotate_bound(result, 45)
     #3 - Affine
     frame = cv2.warpPerspective(image_rotated,matrix,(WIDTH,HEIGHT))
-
+    result = cv2.warpPerspective(image_rotated1,matrix,(WIDTH,HEIGHT))
     #4 - Gary
     image_gray = cv2.cvtColor(frame,cv2.COLOR_BGR2GRAY)
     
@@ -323,9 +347,17 @@ while (True):
         blur = cv2.GaussianBlur(gray, (blurValue*2+1, blurValue*2+1), 0)
         cv2.imshow('blur', blur)
         ret, thresh = cv2.threshold(blur, threshold, 255, cv2.THRESH_BINARY)
+        
+
+
+        ####################
+        thresh = cv2.bitwise_and(thresh,result)
+        
+        
+        #######################
+        
         cv2.imshow('ori', thresh)
-
-
+        
         # get the coutours
         thresh1 = copy.deepcopy(thresh)
         contours, hierarchy = cv2.findContours(thresh1, cv2.RETR_TREE, cv2.CHAIN_APPROX_SIMPLE)
@@ -371,7 +403,7 @@ while (True):
                     #app('System Events').keystroke(' ')  # simulate pressing blank space
                     
 
-        cv2.imshow('output', drawing)
+            cv2.imshow('output', drawing)
         
         ##
     # Keyboard OP
@@ -392,9 +424,3 @@ while (True):
     elif k == ord('n'):
         triggerSwitch = True
         print ('!!!Trigger On!!!')
-
-
-
-
-
-    
