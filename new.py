@@ -272,7 +272,8 @@ while camera.isOpened():
                     
 
         cv2.imshow('output', drawing)
-
+        
+        ##
     # Keyboard OP
     k = cv2.waitKey(10)
     if k == 27:  # press ESC to exit

@@ -20,7 +20,7 @@ def fingerLog(fingerIndex, framenum, beforecX, beforecY, cX, cY, beforeVec, befo
     ori = None
     
 
-    
+    #
     acc = getVec(cX, cY, beforecX, beforecY) + beforeAcc
     if(isVaild(vecX, vecY)):
         
