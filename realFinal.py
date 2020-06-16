@@ -75,7 +75,7 @@ while(True):
     aextRight = np.asarray(extRight)
     aextTop = np.asarray(extTop)
     aextBot = np.asarray(extBot)
-#    print(aextLeft)
+#    print(aextLeft) #
 #    print(aextRight)
 #    print(aextTop)
 #    print(aextBot)
