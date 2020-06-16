@@ -1,0 +1,6345 @@
+Frame   : 0
+BeforeX : 0
+BeforeY : 0
+CurrentX: 0
+CurrentY: 0
+up
+acc     : 0
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 0
+BeforeY : 0
+CurrentX: 0
+CurrentY: 0
+up
+acc     : 0
+fingerIndex:1
+
+Frame   : 0
+BeforeX : 0
+BeforeY : 0
+CurrentX: 0
+CurrentY: 0
+up
+acc     : 0
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 0
+BeforeY : 0
+CurrentX: 0
+CurrentY: 0
+up
+acc     : 0
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 0
+BeforeY : 0
+CurrentX: 0
+CurrentY: 0
+up
+acc     : 0
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 0
+BeforeY : 0
+CurrentX: 0
+CurrentY: 0
+up
+acc     : 0
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 0
+BeforeY : 0
+CurrentX: 0
+CurrentY: 0
+up
+acc     : 0
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 0
+BeforeY : 0
+CurrentX: 0
+CurrentY: 0
+up
+acc     : 0
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 0
+BeforeY : 0
+CurrentX: 0
+CurrentY: 0
+up
+acc     : 0
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 0
+BeforeY : 0
+CurrentX: 0
+CurrentY: 0
+up
+acc     : 0
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 0
+BeforeY : 0
+CurrentX: 0
+CurrentY: 0
+up
+acc     : 0
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 0
+BeforeY : 0
+CurrentX: 0
+CurrentY: 0
+up
+acc     : 0
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 0
+BeforeY : 0
+CurrentX: 0
+CurrentY: 0
+up
+acc     : 0
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 0
+BeforeY : 0
+CurrentX: 0
+CurrentY: 0
+up
+acc     : 0
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 0
+BeforeY : 0
+CurrentX: 0
+CurrentY: 0
+up
+acc     : 0
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 0
+BeforeY : 0
+CurrentX: 0
+CurrentY: 0
+up
+acc     : 0
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 0
+BeforeY : 0
+CurrentX: 0
+CurrentY: 0
+up
+acc     : 0
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 0
+BeforeY : 0
+CurrentX: 0
+CurrentY: 0
+up
+acc     : 0
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 0
+BeforeY : 0
+CurrentX: 0
+CurrentY: 0
+up
+acc     : 0
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 0
+BeforeY : 0
+CurrentX: 0
+CurrentY: 0
+up
+acc     : 0
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 0
+BeforeY : 0
+CurrentX: 0
+CurrentY: 0
+up
+acc     : 0
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 0
+BeforeY : 0
+CurrentX: 0
+CurrentY: 0
+up
+acc     : 0
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 0
+BeforeY : 0
+CurrentX: 0
+CurrentY: 0
+up
+acc     : 0
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 0
+BeforeY : 0
+CurrentX: 0
+CurrentY: 0
+up
+acc     : 0
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 0
+BeforeY : 0
+CurrentX: 0
+CurrentY: 0
+up
+acc     : 0
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 0
+BeforeY : 0
+CurrentX: 0
+CurrentY: 0
+up
+acc     : 0
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 0
+BeforeY : 0
+CurrentX: 0
+CurrentY: 0
+up
+acc     : 0
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 0
+BeforeY : 0
+CurrentX: 0
+CurrentY: 0
+up
+acc     : 0
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 0
+BeforeY : 0
+CurrentX: 0
+CurrentY: 0
+up
+acc     : 0
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 0
+BeforeY : 0
+CurrentX: 0
+CurrentY: 0
+up
+acc     : 0
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 0
+BeforeY : 0
+CurrentX: 0
+CurrentY: 0
+up
+acc     : 0
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 0
+BeforeY : 0
+CurrentX: 0
+CurrentY: 0
+up
+acc     : 0
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 0
+BeforeY : 0
+CurrentX: 0
+CurrentY: 0
+up
+acc     : 0
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 0
+BeforeY : 0
+CurrentX: 0
+CurrentY: 0
+up
+acc     : 0
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 0
+BeforeY : 0
+CurrentX: 0
+CurrentY: 0
+up
+acc     : 0
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 0
+BeforeY : 0
+CurrentX: 0
+CurrentY: 0
+up
+acc     : 0
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 0
+BeforeY : 0
+CurrentX: 0
+CurrentY: 0
+up
+acc     : 0
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 0
+BeforeY : 0
+CurrentX: 0
+CurrentY: 0
+up
+acc     : 0
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 0
+BeforeY : 0
+CurrentX: 0
+CurrentY: 0
+up
+acc     : 0
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 0
+BeforeY : 0
+CurrentX: 0
+CurrentY: 0
+up
+acc     : 0
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 0
+BeforeY : 0
+CurrentX: 0
+CurrentY: 0
+up
+acc     : 0
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 0
+BeforeY : 0
+CurrentX: 0
+CurrentY: 0
+up
+acc     : 0
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 0
+BeforeY : 0
+CurrentX: 0
+CurrentY: 0
+up
+acc     : 0
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 0
+BeforeY : 0
+CurrentX: 0
+CurrentY: 0
+up
+acc     : 0
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 0
+BeforeY : 0
+CurrentX: 0
+CurrentY: 0
+up
+acc     : 0
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 0
+BeforeY : 0
+CurrentX: 0
+CurrentY: 0
+up
+acc     : 0
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 0
+BeforeY : 0
+CurrentX: 0
+CurrentY: 0
+up
+acc     : 0
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 0
+BeforeY : 0
+CurrentX: 0
+CurrentY: 0
+up
+acc     : 0
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 0
+BeforeY : 0
+CurrentX: 0
+CurrentY: 0
+up
+acc     : 0
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 0
+BeforeY : 0
+CurrentX: 0
+CurrentY: 0
+up
+acc     : 0
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 0
+BeforeY : 0
+CurrentX: 0
+CurrentY: 0
+up
+acc     : 0
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 0
+BeforeY : 0
+CurrentX: 0
+CurrentY: 0
+up
+acc     : 0
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 0
+BeforeY : 0
+CurrentX: 0
+CurrentY: 0
+up
+acc     : 0
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 0
+BeforeY : 0
+CurrentX: 0
+CurrentY: 0
+up
+acc     : 0
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 0
+BeforeY : 0
+CurrentX: 0
+CurrentY: 0
+up
+acc     : 0
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 0
+BeforeY : 0
+CurrentX: 0
+CurrentY: 0
+up
+acc     : 0
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 0
+BeforeY : 0
+CurrentX: 0
+CurrentY: 0
+up
+acc     : 0
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 0
+BeforeY : 0
+CurrentX: 0
+CurrentY: 0
+up
+acc     : 0
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 0
+BeforeY : 0
+CurrentX: 0
+CurrentY: 0
+up
+acc     : 0
+fingerIndex:1
+
+Frame   : 0
+BeforeX : 0
+BeforeY : 0
+CurrentX: 0
+CurrentY: 0
+up
+acc     : 0
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 0
+BeforeY : 0
+CurrentX: 0
+CurrentY: 0
+up
+acc     : 0
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 0
+BeforeY : 0
+CurrentX: 0
+CurrentY: 0
+up
+acc     : 0
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 0
+BeforeY : 0
+CurrentX: 0
+CurrentY: 0
+up
+acc     : 0
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 0
+BeforeY : 0
+CurrentX: 0
+CurrentY: 0
+up
+acc     : 0
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 0
+BeforeY : 0
+CurrentX: 0
+CurrentY: 0
+up
+acc     : 0
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 0
+BeforeY : 0
+CurrentX: 0
+CurrentY: 0
+up
+acc     : 0
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 0
+BeforeY : 0
+CurrentX: 0
+CurrentY: 0
+up
+acc     : 0
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 0
+BeforeY : 0
+CurrentX: 0
+CurrentY: 0
+up
+acc     : 0
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 0
+BeforeY : 0
+CurrentX: 0
+CurrentY: 0
+up
+acc     : 0
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 0
+BeforeY : 0
+CurrentX: 0
+CurrentY: 0
+up
+acc     : 0
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 0
+BeforeY : 0
+CurrentX: 0
+CurrentY: 0
+up
+acc     : 0
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 0
+BeforeY : 0
+CurrentX: 0
+CurrentY: 0
+up
+acc     : 0
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 0
+BeforeY : 0
+CurrentX: 0
+CurrentY: 0
+up
+acc     : 0
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 0
+BeforeY : 0
+CurrentX: 0
+CurrentY: 0
+up
+acc     : 0
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 0
+BeforeY : 0
+CurrentX: 0
+CurrentY: 0
+up
+acc     : 0
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 0
+BeforeY : 0
+CurrentX: 0
+CurrentY: 0
+up
+acc     : 0
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 0
+BeforeY : 0
+CurrentX: 0
+CurrentY: 0
+up
+acc     : 0
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 0
+BeforeY : 0
+CurrentX: 0
+CurrentY: 0
+up
+acc     : 0
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 0
+BeforeY : 0
+CurrentX: 0
+CurrentY: 0
+up
+acc     : 0
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 0
+BeforeY : 0
+CurrentX: 0
+CurrentY: 0
+up
+acc     : 0
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 0
+BeforeY : 0
+CurrentX: 0
+CurrentY: 0
+up
+acc     : 0
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 0
+BeforeY : 0
+CurrentX: 0
+CurrentY: 0
+up
+acc     : 0
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 0
+BeforeY : 0
+CurrentX: 0
+CurrentY: 0
+up
+acc     : 0
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 0
+BeforeY : 0
+CurrentX: 0
+CurrentY: 0
+up
+acc     : 0
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 0
+BeforeY : 0
+CurrentX: 0
+CurrentY: 0
+up
+acc     : 0
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 0
+BeforeY : 0
+CurrentX: 0
+CurrentY: 0
+up
+acc     : 0
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 0
+BeforeY : 0
+CurrentX: 0
+CurrentY: 0
+up
+acc     : 0
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 0
+BeforeY : 0
+CurrentX: 0
+CurrentY: 0
+up
+acc     : 0
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 0
+BeforeY : 0
+CurrentX: 0
+CurrentY: 0
+up
+acc     : 0
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 0
+BeforeY : 0
+CurrentX: 0
+CurrentY: 0
+up
+acc     : 0
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 0
+BeforeY : 0
+CurrentX: 0
+CurrentY: 0
+up
+acc     : 0
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 0
+BeforeY : 0
+CurrentX: 0
+CurrentY: 0
+up
+acc     : 0
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 0
+BeforeY : 0
+CurrentX: 0
+CurrentY: 0
+up
+acc     : 0
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 0
+BeforeY : 0
+CurrentX: 0
+CurrentY: 0
+up
+acc     : 0
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 0
+BeforeY : 0
+CurrentX: 0
+CurrentY: 0
+up
+acc     : 0
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 0
+BeforeY : 0
+CurrentX: 319
+CurrentY: 268
+unvaild
+acc     : 563.2344094602175
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 0
+BeforeY : 0
+CurrentX: 240
+CurrentY: 239
+unvaild
+acc     : 478.50078369841776
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 0
+BeforeY : 0
+CurrentX: 217
+CurrentY: 222
+unvaild
+acc     : 441.52123391746403
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 0
+BeforeY : 0
+CurrentX: 198
+CurrentY: 211
+unvaild
+acc     : 415.65249909028574
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 0
+BeforeY : 0
+CurrentX: 188
+CurrentY: 197
+unvaild
+acc     : 389.5779767902698
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 0
+BeforeY : 0
+CurrentX: 179
+CurrentY: 186
+unvaild
+acc     : 368.5498609415014
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 0
+BeforeY : 0
+CurrentX: 175
+CurrentY: 176
+unvaild
+acc     : 351.501066854711
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 0
+BeforeY : 0
+CurrentX: 167
+CurrentY: 170
+unvaild
+acc     : 338.5099703110678
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 0
+BeforeY : 0
+CurrentX: 162
+CurrentY: 165
+unvaild
+acc     : 328.51027381194643
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 0
+BeforeY : 0
+CurrentX: 159
+CurrentY: 164
+unvaild
+acc     : 325.5288005691662
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 0
+BeforeY : 0
+CurrentX: 160
+CurrentY: 163
+unvaild
+acc     : 324.51040044966203
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 0
+BeforeY : 0
+CurrentX: 160
+CurrentY: 163
+unvaild
+acc     : 324.51040044966203
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 0
+BeforeY : 0
+CurrentX: 165
+CurrentY: 191
+unvaild
+acc     : 369.6863535485182
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 0
+BeforeY : 0
+CurrentX: 164
+CurrentY: 186
+unvaild
+acc     : 361.50242046215953
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 0
+BeforeY : 0
+CurrentX: 158
+CurrentY: 170
+unvaild
+acc     : 334.1616375348912
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 0
+BeforeY : 0
+CurrentX: 154
+CurrentY: 166
+unvaild
+acc     : 326.165602110339
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 0
+BeforeY : 0
+CurrentX: 155
+CurrentY: 164
+unvaild
+acc     : 323.5938812771342
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 0
+BeforeY : 0
+CurrentX: 155
+CurrentY: 164
+unvaild
+acc     : 323.5938812771342
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 0
+BeforeY : 0
+CurrentX: 154
+CurrentY: 165
+unvaild
+acc     : 324.63980039422154
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 0
+BeforeY : 0
+CurrentX: 159
+CurrentY: 192
+unvaild
+acc     : 368.60954952361175
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 0
+BeforeY : 0
+CurrentX: 162
+CurrentY: 204
+unvaild
+acc     : 388.7055440818924
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 0
+BeforeY : 0
+CurrentX: 162
+CurrentY: 194
+unvaild
+acc     : 373.03082982509636
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 0
+BeforeY : 0
+CurrentX: 157
+CurrentY: 176
+unvaild
+acc     : 342.8950276688188
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 0
+BeforeY : 0
+CurrentX: 154
+CurrentY: 166
+unvaild
+acc     : 326.165602110339
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 0
+BeforeY : 0
+CurrentX: 155
+CurrentY: 163
+unvaild
+acc     : 322.0745255371806
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 0
+BeforeY : 0
+CurrentX: 155
+CurrentY: 162
+unvaild
+acc     : 320.55732716629643
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 0
+BeforeY : 0
+CurrentX: 153
+CurrentY: 164
+unvaild
+acc     : 322.64066699658304
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 0
+BeforeY : 0
+CurrentX: 156
+CurrentY: 197
+unvaild
+acc     : 375.18395488080245
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 0
+BeforeY : 0
+CurrentX: 165
+CurrentY: 236
+unvaild
+acc     : 440.80948265662346
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 0
+BeforeY : 0
+CurrentX: 164
+CurrentY: 223
+unvaild
+acc     : 419.6224493517953
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 0
+BeforeY : 0
+CurrentX: 160
+CurrentY: 194
+unvaild
+acc     : 372.16662934766197
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 0
+BeforeY : 0
+CurrentX: 154
+CurrentY: 173
+unvaild
+acc     : 336.9020629203686
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 0
+BeforeY : 0
+CurrentX: 153
+CurrentY: 167
+unvaild
+acc     : 327.22469344473376
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 0
+BeforeY : 0
+CurrentX: 156
+CurrentY: 163
+unvaild
+acc     : 322.5569717119752
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 0
+BeforeY : 0
+CurrentX: 155
+CurrentY: 165
+unvaild
+acc     : 325.1153641401772
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 0
+BeforeY : 0
+CurrentX: 154
+CurrentY: 197
+unvaild
+acc     : 374.35678169361375
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 0
+BeforeY : 0
+CurrentX: 159
+CurrentY: 203
+unvaild
+acc     : 385.88599352658554
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 0
+BeforeY : 0
+CurrentX: 157
+CurrentY: 184
+unvaild
+acc     : 355.27031961592286
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 0
+BeforeY : 0
+CurrentX: 154
+CurrentY: 172
+unvaild
+acc     : 335.36249044876797
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 0
+BeforeY : 0
+CurrentX: 157
+CurrentY: 166
+unvaild
+acc     : 327.5927349621783
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 0
+BeforeY : 0
+CurrentX: 157
+CurrentY: 165
+unvaild
+acc     : 326.0736113211249
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 0
+BeforeY : 0
+CurrentX: 155
+CurrentY: 167
+unvaild
+acc     : 328.164592849381
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 0
+BeforeY : 0
+CurrentX: 165
+CurrentY: 228
+unvaild
+acc     : 427.9918223517828
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 0
+BeforeY : 0
+CurrentX: 161
+CurrentY: 197
+unvaild
+acc     : 377.2903391288995
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 0
+BeforeY : 0
+CurrentX: 159
+CurrentY: 174
+unvaild
+acc     : 340.7477072556762
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 0
+BeforeY : 0
+CurrentX: 157
+CurrentY: 166
+unvaild
+acc     : 327.5927349621783
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 0
+BeforeY : 0
+CurrentX: 157
+CurrentY: 164
+unvaild
+acc     : 324.5566206380637
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 0
+BeforeY : 0
+CurrentX: 159
+CurrentY: 163
+unvaild
+acc     : 324.0185179893273
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 0
+BeforeY : 0
+CurrentX: 154
+CurrentY: 189
+unvaild
+acc     : 361.7720276638314
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 0
+BeforeY : 0
+CurrentX: 163
+CurrentY: 199
+unvaild
+acc     : 381.27680233657014
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 0
+BeforeY : 0
+CurrentX: 160
+CurrentY: 172
+unvaild
+acc     : 338.15972557358157
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 0
+BeforeY : 0
+CurrentX: 160
+CurrentY: 163
+unvaild
+acc     : 324.51040044966203
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 0
+BeforeY : 0
+CurrentX: 157
+CurrentY: 165
+unvaild
+acc     : 326.0736113211249
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 0
+BeforeY : 0
+CurrentX: 158
+CurrentY: 179
+unvaild
+acc     : 347.9755738554073
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 0
+BeforeY : 0
+CurrentX: 178
+CurrentY: 233
+unvaild
+acc     : 441.0793579391355
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 0
+BeforeY : 0
+CurrentX: 187
+CurrentY: 227
+unvaild
+acc     : 435.38029353658163
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 0
+BeforeY : 0
+CurrentX: 6
+CurrentY: 167
+unvaild
+acc     : 289.31470754180475
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 0
+BeforeY : 0
+CurrentX: 9
+CurrentY: 167
+unvaild
+acc     : 289.3924670754234
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 0
+BeforeY : 0
+CurrentX: 9
+CurrentY: 168
+unvaild
+acc     : 291.1236850549951
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 0
+BeforeY : 0
+CurrentX: 43
+CurrentY: 217
+unvaild
+acc     : 378.30675383873336
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 0
+BeforeY : 0
+CurrentX: 8
+CurrentY: 169
+unvaild
+acc     : 292.82588683379754
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 0
+BeforeY : 0
+CurrentX: 9
+CurrentY: 169
+unvaild
+acc     : 292.85491288349596
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 0
+BeforeY : 0
+CurrentX: 6
+CurrentY: 171
+unvaild
+acc     : 296.24145557298357
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 0
+BeforeY : 0
+CurrentX: 4
+CurrentY: 171
+unvaild
+acc     : 296.20769740167117
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 0
+BeforeY : 0
+CurrentX: 3
+CurrentY: 177
+unvaild
+acc     : 306.58767098498924
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 0
+BeforeY : 0
+CurrentX: 5
+CurrentY: 181
+unvaild
+acc     : 313.5410658908973
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 0
+BeforeY : 0
+CurrentX: 319
+CurrentY: 238
+unvaild
+acc     : 521.2417865060321
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 0
+BeforeY : 0
+CurrentX: 105
+CurrentY: 157
+unvaild
+acc     : 291.49957118321805
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 0
+BeforeY : 0
+CurrentX: 67
+CurrentY: 154
+unvaild
+acc     : 275.0218173163722
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 0
+BeforeY : 0
+CurrentX: 51
+CurrentY: 159
+unvaild
+acc     : 280.07856040761135
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 0
+BeforeY : 0
+CurrentX: 49
+CurrentY: 161
+unvaild
+acc     : 283.13247782619356
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 0
+BeforeY : 0
+CurrentX: 53
+CurrentY: 158
+unvaild
+acc     : 278.7489910295641
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 0
+BeforeY : 0
+CurrentX: 61
+CurrentY: 155
+unvaild
+acc     : 275.3107335357632
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 0
+BeforeY : 0
+CurrentX: 66
+CurrentY: 155
+unvaild
+acc     : 276.46157056632666
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 0
+BeforeY : 0
+CurrentX: 62
+CurrentY: 188
+unvaild
+acc     : 331.4754892899323
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 0
+BeforeY : 0
+CurrentX: 63
+CurrentY: 220
+unvaild
+acc     : 386.22402825303345
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 0
+BeforeY : 0
+CurrentX: 63
+CurrentY: 182
+unvaild
+acc     : 321.466950089741
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 0
+BeforeY : 0
+CurrentX: 319
+CurrentY: 272
+unvaild
+acc     : 568.9578191746731
+fingerIndex:1
+
+Frame   : 0
+BeforeX : 0
+BeforeY : 0
+CurrentX: 0
+CurrentY: 265
+unvaild
+acc     : 458.99346400575246
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 0
+BeforeY : 0
+CurrentX: 67
+CurrentY: 164
+unvaild
+acc     : 291.8509893764282
+fingerIndex:1
+
+Frame   : 0
+BeforeX : 0
+BeforeY : 0
+CurrentX: 319
+CurrentY: 285
+unvaild
+acc     : 587.7380368837804
+fingerIndex:2
+
+Frame   : 0
+BeforeX : 0
+BeforeY : 0
+CurrentX: 0
+CurrentY: 135
+unvaild
+acc     : 233.82685902179844
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 0
+BeforeY : 0
+CurrentX: 71
+CurrentY: 143
+unvaild
+acc     : 257.658688966625
+fingerIndex:1
+
+Frame   : 0
+BeforeX : 0
+BeforeY : 0
+CurrentX: 319
+CurrentY: 284
+unvaild
+acc     : 586.2840608442293
+fingerIndex:2
+
+Frame   : 0
+BeforeX : 0
+BeforeY : 0
+CurrentX: 0
+CurrentY: 139
+unvaild
+acc     : 240.75506225207394
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 0
+BeforeY : 0
+CurrentX: 319
+CurrentY: 285
+unvaild
+acc     : 587.7380368837804
+fingerIndex:1
+
+Frame   : 0
+BeforeX : 0
+BeforeY : 0
+CurrentX: 0
+CurrentY: 149
+unvaild
+acc     : 258.0755703277627
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 0
+BeforeY : 0
+CurrentX: 79
+CurrentY: 150
+unvaild
+acc     : 271.55294143131647
+fingerIndex:1
+
+Frame   : 0
+BeforeX : 0
+BeforeY : 0
+CurrentX: 75
+CurrentY: 153
+unvaild
+acc     : 275.412418020684
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 0
+BeforeY : 0
+CurrentX: 81
+CurrentY: 151
+unvaild
+acc     : 273.7955441565841
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 0
+BeforeY : 0
+CurrentX: 0
+CurrentY: 134
+unvaild
+acc     : 232.09480821422954
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 0
+BeforeY : 0
+CurrentX: 61
+CurrentY: 107
+unvaild
+acc     : 195.110225257417
+fingerIndex:1
+
+Frame   : 0
+BeforeX : 0
+BeforeY : 0
+CurrentX: 319
+CurrentY: 285
+unvaild
+acc     : 587.7380368837804
+fingerIndex:2
+
+Frame   : 0
+BeforeX : 0
+BeforeY : 0
+CurrentX: 91
+CurrentY: 148
+unvaild
+acc     : 272.01654361453825
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 0
+BeforeY : 0
+CurrentX: 319
+CurrentY: 268
+unvaild
+acc     : 563.2344094602175
+fingerIndex:1
+
+Frame   : 0
+BeforeX : 0
+BeforeY : 0
+CurrentX: 101
+CurrentY: 144
+unvaild
+acc     : 269.08920454005585
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 0
+BeforeY : 0
+CurrentX: 101
+CurrentY: 144
+unvaild
+acc     : 269.08920454005585
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 0
+BeforeY : 0
+CurrentX: 106
+CurrentY: 144
+unvaild
+acc     : 271.0055349988262
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 0
+BeforeY : 0
+CurrentX: 319
+CurrentY: 134
+unvaild
+acc     : 394.4984157129151
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 0
+BeforeY : 0
+CurrentX: 319
+CurrentY: 141
+unvaild
+acc     : 401.7511667686853
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 0
+BeforeY : 0
+CurrentX: 319
+CurrentY: 269
+unvaild
+acc     : 564.6627311944716
+fingerIndex:1
+
+Frame   : 0
+BeforeX : 0
+BeforeY : 0
+CurrentX: 199
+CurrentY: 149
+unvaild
+acc     : 325.88955184233816
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 0
+BeforeY : 0
+CurrentX: 125
+CurrentY: 84
+unvaild
+acc     : 191.81501505356664
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 0
+BeforeY : 0
+CurrentX: 319
+CurrentY: 198
+unvaild
+acc     : 468.3727148329629
+fingerIndex:1
+
+Frame   : 0
+BeforeX : 0
+BeforeY : 0
+CurrentX: 126
+CurrentY: 78
+unvaild
+acc     : 184.73765182008782
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 0
+BeforeY : 0
+CurrentX: 319
+CurrentY: 188
+unvaild
+acc     : 455.8431747871191
+fingerIndex:1
+
+Frame   : 0
+BeforeX : 0
+BeforeY : 0
+CurrentX: 91
+CurrentY: 80
+unvaild
+acc     : 165.77394246382633
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 0
+BeforeY : 0
+CurrentX: 319
+CurrentY: 78
+unvaild
+acc     : 346.42892488936315
+fingerIndex:1
+
+Frame   : 0
+BeforeX : 0
+BeforeY : 0
+CurrentX: 319
+CurrentY: 155
+unvaild
+acc     : 416.9364459962693
+fingerIndex:2
+
+Frame   : 0
+BeforeX : 0
+BeforeY : 0
+CurrentX: 319
+CurrentY: 140
+unvaild
+acc     : 400.7006363858186
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 0
+BeforeY : 0
+CurrentX: 108
+CurrentY: 149
+unvaild
+acc     : 279.7623991890261
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 0
+BeforeY : 0
+CurrentX: 319
+CurrentY: 269
+unvaild
+acc     : 564.6627311944716
+fingerIndex:1
+
+Frame   : 0
+BeforeX : 0
+BeforeY : 0
+CurrentX: 105
+CurrentY: 179
+unvaild
+acc     : 327.3346911037692
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 0
+BeforeY : 0
+CurrentX: 108
+CurrentY: 162
+unvaild
+acc     : 300.6592755928212
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 0
+BeforeY : 0
+CurrentX: 113
+CurrentY: 79
+unvaild
+acc     : 177.45985461506498
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 0
+BeforeY : 0
+CurrentX: 319
+CurrentY: 187
+unvaild
+acc     : 454.60752303498015
+fingerIndex:1
+
+Frame   : 0
+BeforeX : 0
+BeforeY : 0
+CurrentX: 319
+CurrentY: 136
+unvaild
+acc     : 396.5463402932878
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 0
+BeforeY : 0
+CurrentX: 319
+CurrentY: 267
+unvaild
+acc     : 561.8077963147183
+fingerIndex:1
+
+Frame   : 0
+BeforeX : 0
+BeforeY : 0
+CurrentX: 319
+CurrentY: 141
+unvaild
+acc     : 401.7511667686853
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 0
+BeforeY : 0
+CurrentX: 319
+CurrentY: 270
+unvaild
+acc     : 566.0927485845407
+fingerIndex:1
+
+Frame   : 0
+BeforeX : 0
+BeforeY : 0
+CurrentX: 102
+CurrentY: 161
+unvaild
+acc     : 296.929284510639
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 0
+BeforeY : 0
+CurrentX: 104
+CurrentY: 175
+unvaild
+acc     : 320.4543649258034
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 0
+BeforeY : 0
+CurrentX: 120
+CurrentY: 77
+unvaild
+acc     : 179.4073577086514
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 0
+BeforeY : 0
+CurrentX: 319
+CurrentY: 186
+unvaild
+acc     : 453.37512062308843
+fingerIndex:1
+
+Frame   : 0
+BeforeX : 0
+BeforeY : 0
+CurrentX: 317
+CurrentY: 134
+unvaild
+acc     : 392.8829342183241
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 0
+BeforeY : 0
+CurrentX: 256
+CurrentY: 278
+unvaild
+acc     : 545.3329258352186
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 0
+BeforeY : 0
+CurrentX: 319
+CurrentY: 138
+unvaild
+acc     : 398.61384822908497
+fingerIndex:1
+
+Frame   : 0
+BeforeX : 0
+BeforeY : 0
+CurrentX: 95
+CurrentY: 181
+unvaild
+acc     : 327.57899810580045
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 0
+BeforeY : 0
+CurrentX: 103
+CurrentY: 169
+unvaild
+acc     : 310.3095228960916
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 0
+BeforeY : 0
+CurrentX: 106
+CurrentY: 148
+unvaild
+acc     : 277.3950251897103
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 0
+BeforeY : 0
+CurrentX: 98
+CurrentY: 180
+unvaild
+acc     : 326.8088126106761
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 0
+BeforeY : 0
+CurrentX: 319
+CurrentY: 267
+unvaild
+acc     : 561.8077963147183
+fingerIndex:1
+
+Frame   : 0
+BeforeX : 0
+BeforeY : 0
+CurrentX: 91
+CurrentY: 174
+unvaild
+acc     : 314.8158191705112
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 0
+BeforeY : 0
+CurrentX: 319
+CurrentY: 268
+unvaild
+acc     : 563.2344094602175
+fingerIndex:1
+
+Frame   : 0
+BeforeX : 0
+BeforeY : 0
+CurrentX: 319
+CurrentY: 140
+unvaild
+acc     : 400.7006363858186
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 0
+BeforeY : 0
+CurrentX: 96
+CurrentY: 173
+unvaild
+acc     : 314.64742172787624
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 0
+BeforeY : 0
+CurrentX: 97
+CurrentY: 157
+unvaild
+acc     : 288.71439174381317
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 0
+BeforeY : 0
+CurrentX: 98
+CurrentY: 149
+unvaild
+acc     : 276.05615370790053
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 0
+BeforeY : 0
+CurrentX: 95
+CurrentY: 173
+unvaild
+acc     : 314.34376087334704
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 0
+BeforeY : 0
+CurrentX: 319
+CurrentY: 267
+unvaild
+acc     : 561.8077963147183
+fingerIndex:1
+
+Frame   : 0
+BeforeX : 0
+BeforeY : 0
+CurrentX: 141
+CurrentY: 146
+unvaild
+acc     : 289.53238160868983
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 0
+BeforeY : 0
+CurrentX: 319
+CurrentY: 268
+unvaild
+acc     : 563.2344094602175
+fingerIndex:1
+
+Frame   : 0
+BeforeX : 0
+BeforeY : 0
+CurrentX: 100
+CurrentY: 176
+unvaild
+acc     : 320.823939256409
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 0
+BeforeY : 0
+CurrentX: 98
+CurrentY: 176
+unvaild
+acc     : 320.2061835755206
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 0
+BeforeY : 0
+CurrentX: 102
+CurrentY: 152
+unvaild
+acc     : 282.3402203016779
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 0
+BeforeY : 0
+CurrentX: 92
+CurrentY: 169
+unvaild
+acc     : 306.83383125072766
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 0
+BeforeY : 0
+CurrentX: 88
+CurrentY: 178
+unvaild
+acc     : 320.61815294833195
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 0
+BeforeY : 0
+CurrentX: 120
+CurrentY: 180
+unvaild
+acc     : 334.0658617698013
+fingerIndex:1
+
+Frame   : 0
+BeforeX : 0
+BeforeY : 0
+CurrentX: 319
+CurrentY: 267
+unvaild
+acc     : 561.8077963147183
+fingerIndex:2
+
+Frame   : 0
+BeforeX : 0
+BeforeY : 0
+CurrentX: 108
+CurrentY: 148
+unvaild
+acc     : 278.16541841141935
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 0
+BeforeY : 0
+CurrentX: 301
+CurrentY: 243
+unvaild
+acc     : 517.4437167460825
+fingerIndex:1
+
+Frame   : 0
+BeforeX : 0
+BeforeY : 0
+CurrentX: 319
+CurrentY: 267
+unvaild
+acc     : 561.8077963147183
+fingerIndex:2
+
+Frame   : 0
+BeforeX : 0
+BeforeY : 0
+CurrentX: 99
+CurrentY: 174
+unvaild
+acc     : 317.22074333183195
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 0
+BeforeY : 0
+CurrentX: 106
+CurrentY: 164
+unvaild
+acc     : 303.189709587908
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 0
+BeforeY : 0
+CurrentX: 115
+CurrentY: 160
+unvaild
+acc     : 300.04166377354994
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 0
+BeforeY : 0
+CurrentX: 319
+CurrentY: 267
+unvaild
+acc     : 561.8077963147183
+fingerIndex:1
+
+Frame   : 0
+BeforeX : 0
+BeforeY : 0
+CurrentX: 108
+CurrentY: 211
+unvaild
+acc     : 381.0866043303018
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 0
+BeforeY : 0
+CurrentX: 319
+CurrentY: 268
+unvaild
+acc     : 563.2344094602175
+fingerIndex:1
+
+Frame   : 0
+BeforeX : 0
+BeforeY : 0
+CurrentX: 83
+CurrentY: 278
+unvaild
+acc     : 488.6112974543262
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 0
+BeforeY : 0
+CurrentX: 174
+CurrentY: 252
+unvaild
+acc     : 469.88083595737334
+fingerIndex:1
+
+Frame   : 0
+BeforeX : 0
+BeforeY : 0
+CurrentX: 116
+CurrentY: 84
+unvaild
+acc     : 186.07525359380813
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 0
+BeforeY : 0
+CurrentX: 302
+CurrentY: 83
+unvaild
+acc     : 334.47122447230043
+fingerIndex:1
+
+Frame   : 0
+BeforeX : 0
+BeforeY : 0
+CurrentX: 112
+CurrentY: 113
+unvaild
+acc     : 225.50166296504335
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 0
+BeforeY : 0
+CurrentX: 123
+CurrentY: 77
+unvaild
+acc     : 181.42767153882562
+fingerIndex:1
+
+Frame   : 0
+BeforeX : 0
+BeforeY : 0
+CurrentX: 319
+CurrentY: 104
+unvaild
+acc     : 366.3454653738736
+fingerIndex:2
+
+Frame   : 0
+BeforeX : 0
+BeforeY : 0
+CurrentX: 4
+CurrentY: 165
+unvaild
+acc     : 285.8163746183903
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 4
+BeforeY : 165
+CurrentX: 10
+CurrentY: 158
+up
+acc     : 0
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 10
+BeforeY : 158
+CurrentX: 58
+CurrentY: 235
+unvaild
+acc     : 141.742724681022
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 58
+BeforeY : 235
+CurrentX: 71
+CurrentY: 256
+down
+acc     : 38.62641583165593
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 71
+BeforeY : 256
+CurrentX: 57
+CurrentY: 245
+up
+acc     : 0
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 57
+BeforeY : 245
+CurrentX: 4
+CurrentY: 165
+up
+acc     : 0
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 4
+BeforeY : 165
+CurrentX: 289
+CurrentY: 284
+unvaild
+acc     : 351.72148072018575
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 289
+BeforeY : 284
+CurrentX: 157
+CurrentY: 241
+up
+acc     : 0
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 157
+BeforeY : 241
+CurrentX: 110
+CurrentY: 219
+up
+acc     : 0
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 110
+BeforeY : 219
+CurrentX: 102
+CurrentY: 203
+up
+acc     : 0
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 102
+BeforeY : 203
+CurrentX: 110
+CurrentY: 191
+up
+acc     : 0
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 110
+BeforeY : 191
+CurrentX: 113
+CurrentY: 189
+up
+acc     : 0
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 113
+BeforeY : 189
+CurrentX: 112
+CurrentY: 189
+up
+acc     : 0
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 112
+BeforeY : 189
+CurrentX: 112
+CurrentY: 187
+up
+acc     : 0
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 112
+BeforeY : 187
+CurrentX: 113
+CurrentY: 188
+down
+acc     : 2.0
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 113
+BeforeY : 188
+CurrentX: 109
+CurrentY: 228
+unvaild
+acc     : 69.39740629158989
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 109
+BeforeY : 228
+CurrentX: 107
+CurrentY: 239
+down
+acc     : 19.157244060668017
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 107
+BeforeY : 239
+CurrentX: 107
+CurrentY: 213
+up
+acc     : 0
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 107
+BeforeY : 213
+CurrentX: 107
+CurrentY: 197
+up
+acc     : 0
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 107
+BeforeY : 197
+CurrentX: 107
+CurrentY: 189
+up
+acc     : 0
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 107
+BeforeY : 189
+CurrentX: 109
+CurrentY: 187
+up
+acc     : 0
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 109
+BeforeY : 187
+CurrentX: 109
+CurrentY: 187
+up
+acc     : 0
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 109
+BeforeY : 187
+CurrentX: 105
+CurrentY: 189
+down
+acc     : 5.291502622129181
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 105
+BeforeY : 189
+CurrentX: 106
+CurrentY: 223
+unvaild
+acc     : 58.89821729050889
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 106
+BeforeY : 223
+CurrentX: 109
+CurrentY: 236
+down
+acc     : 22.715633383201094
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 109
+BeforeY : 236
+CurrentX: 108
+CurrentY: 216
+up
+acc     : 0
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 108
+BeforeY : 216
+CurrentX: 109
+CurrentY: 200
+up
+acc     : 0
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 109
+BeforeY : 200
+CurrentX: 110
+CurrentY: 194
+up
+acc     : 0
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 110
+BeforeY : 194
+CurrentX: 111
+CurrentY: 191
+up
+acc     : 0
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 111
+BeforeY : 191
+CurrentX: 111
+CurrentY: 190
+up
+acc     : 0
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 111
+BeforeY : 190
+CurrentX: 112
+CurrentY: 190
+up
+acc     : 0
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 112
+BeforeY : 190
+CurrentX: 112
+CurrentY: 190
+up
+acc     : 0
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 112
+BeforeY : 190
+CurrentX: 108
+CurrentY: 195
+down
+acc     : 9.539392014169456
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 108
+BeforeY : 195
+CurrentX: 109
+CurrentY: 249
+unvaild
+acc     : 93.53608929178085
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 109
+BeforeY : 249
+CurrentX: 108
+CurrentY: 235
+up
+acc     : 0
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 108
+BeforeY : 235
+CurrentX: 111
+CurrentY: 212
+up
+acc     : 0
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 111
+BeforeY : 212
+CurrentX: 111
+CurrentY: 199
+up
+acc     : 0
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 111
+BeforeY : 199
+CurrentX: 113
+CurrentY: 193
+up
+acc     : 0
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 113
+BeforeY : 193
+CurrentX: 114
+CurrentY: 191
+up
+acc     : 0
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 114
+BeforeY : 191
+CurrentX: 113
+CurrentY: 191
+up
+acc     : 0
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 113
+BeforeY : 191
+CurrentX: 113
+CurrentY: 190
+up
+acc     : 0
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 113
+BeforeY : 190
+CurrentX: 115
+CurrentY: 188
+up
+acc     : 0
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 115
+BeforeY : 188
+CurrentX: 113
+CurrentY: 189
+down
+acc     : 2.6457513110645907
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 113
+BeforeY : 189
+CurrentX: 115
+CurrentY: 188
+up
+acc     : 0
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 115
+BeforeY : 188
+CurrentX: 116
+CurrentY: 188
+up
+acc     : 0
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 116
+BeforeY : 188
+CurrentX: 115
+CurrentY: 228
+unvaild
+acc     : 69.28924880528002
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 115
+BeforeY : 228
+CurrentX: 114
+CurrentY: 230
+down
+acc     : 3.605551275463989
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 114
+BeforeY : 230
+CurrentX: 114
+CurrentY: 205
+up
+acc     : 0
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 114
+BeforeY : 205
+CurrentX: 116
+CurrentY: 191
+up
+acc     : 0
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 116
+BeforeY : 191
+CurrentX: 117
+CurrentY: 188
+up
+acc     : 0
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 117
+BeforeY : 188
+CurrentX: 119
+CurrentY: 188
+up
+acc     : 0
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 119
+BeforeY : 188
+CurrentX: 118
+CurrentY: 191
+down
+acc     : 5.291502622129181
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 118
+BeforeY : 191
+CurrentX: 123
+CurrentY: 193
+down
+acc     : 6.082762530298219
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 123
+BeforeY : 193
+CurrentX: 124
+CurrentY: 191
+up
+acc     : 0
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 124
+BeforeY : 191
+CurrentX: 126
+CurrentY: 201
+down
+acc     : 17.435595774162696
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 126
+BeforeY : 201
+CurrentX: 126
+CurrentY: 221
+down
+acc     : 34.64101615137755
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 126
+BeforeY : 221
+CurrentX: 126
+CurrentY: 218
+up
+acc     : 0
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 126
+BeforeY : 218
+CurrentX: 126
+CurrentY: 218
+up
+acc     : 0
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 126
+BeforeY : 218
+CurrentX: 124
+CurrentY: 206
+up
+acc     : 0
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 124
+BeforeY : 206
+CurrentX: 121
+CurrentY: 187
+up
+acc     : 0
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 121
+BeforeY : 187
+CurrentX: 123
+CurrentY: 184
+up
+acc     : 0
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 123
+BeforeY : 184
+CurrentX: 124
+CurrentY: 184
+up
+acc     : 0
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 124
+BeforeY : 184
+CurrentX: 123
+CurrentY: 185
+down
+acc     : 2.0
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 123
+BeforeY : 185
+CurrentX: 123
+CurrentY: 189
+down
+acc     : 6.928203230275509
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 123
+BeforeY : 189
+CurrentX: 125
+CurrentY: 198
+down
+acc     : 15.716233645501712
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 125
+BeforeY : 198
+CurrentX: 126
+CurrentY: 223
+down
+acc     : 43.31281565541543
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 126
+BeforeY : 223
+CurrentX: 128
+CurrentY: 227
+down
+acc     : 7.211102550927978
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 128
+BeforeY : 227
+CurrentX: 123
+CurrentY: 213
+up
+acc     : 0
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 123
+BeforeY : 213
+CurrentX: 122
+CurrentY: 204
+up
+acc     : 0
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 122
+BeforeY : 204
+CurrentX: 123
+CurrentY: 198
+up
+acc     : 0
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 123
+BeforeY : 198
+CurrentX: 123
+CurrentY: 194
+up
+acc     : 0
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 123
+BeforeY : 194
+CurrentX: 122
+CurrentY: 192
+up
+acc     : 0
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 122
+BeforeY : 192
+CurrentX: 121
+CurrentY: 192
+up
+acc     : 0
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 121
+BeforeY : 192
+CurrentX: 123
+CurrentY: 191
+up
+acc     : 0
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 123
+BeforeY : 191
+CurrentX: 123
+CurrentY: 192
+down
+acc     : 1.7320508075688772
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 123
+BeforeY : 192
+CurrentX: 122
+CurrentY: 207
+down
+acc     : 26.0
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 122
+BeforeY : 207
+CurrentX: 123
+CurrentY: 233
+down
+acc     : 45.044422518220834
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 123
+BeforeY : 233
+CurrentX: 121
+CurrentY: 224
+up
+acc     : 0
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 121
+BeforeY : 224
+CurrentX: 121
+CurrentY: 209
+up
+acc     : 0
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 121
+BeforeY : 209
+CurrentX: 120
+CurrentY: 200
+up
+acc     : 0
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 120
+BeforeY : 200
+CurrentX: 121
+CurrentY: 197
+up
+acc     : 0
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 121
+BeforeY : 197
+CurrentX: 120
+CurrentY: 196
+up
+acc     : 0
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 120
+BeforeY : 196
+CurrentX: 120
+CurrentY: 196
+up
+acc     : 0
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 120
+BeforeY : 196
+CurrentX: 120
+CurrentY: 196
+up
+acc     : 0
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 120
+BeforeY : 196
+CurrentX: 123
+CurrentY: 199
+down
+acc     : 6.0
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 123
+BeforeY : 199
+CurrentX: 125
+CurrentY: 232
+unvaild
+acc     : 57.19265687131522
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 125
+BeforeY : 232
+CurrentX: 127
+CurrentY: 239
+down
+acc     : 12.288205727444508
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 127
+BeforeY : 239
+CurrentX: 125
+CurrentY: 224
+up
+acc     : 0
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 125
+BeforeY : 224
+CurrentX: 124
+CurrentY: 213
+up
+acc     : 0
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 124
+BeforeY : 213
+CurrentX: 124
+CurrentY: 203
+up
+acc     : 0
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 124
+BeforeY : 203
+CurrentX: 125
+CurrentY: 197
+up
+acc     : 0
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 125
+BeforeY : 197
+CurrentX: 125
+CurrentY: 195
+up
+acc     : 0
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 125
+BeforeY : 195
+CurrentX: 125
+CurrentY: 195
+up
+acc     : 0
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 125
+BeforeY : 195
+CurrentX: 124
+CurrentY: 196
+down
+acc     : 2.0
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 124
+BeforeY : 196
+CurrentX: 125
+CurrentY: 215
+down
+acc     : 32.92415526630866
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 125
+BeforeY : 215
+CurrentX: 125
+CurrentY: 241
+down
+acc     : 45.033320996790806
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 125
+BeforeY : 241
+CurrentX: 124
+CurrentY: 231
+up
+acc     : 0
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 124
+BeforeY : 231
+CurrentX: 124
+CurrentY: 214
+up
+acc     : 0
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 124
+BeforeY : 214
+CurrentX: 125
+CurrentY: 201
+up
+acc     : 0
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 125
+BeforeY : 201
+CurrentX: 126
+CurrentY: 196
+up
+acc     : 0
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 126
+BeforeY : 196
+CurrentX: 127
+CurrentY: 194
+up
+acc     : 0
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 127
+BeforeY : 194
+CurrentX: 126
+CurrentY: 195
+down
+acc     : 2.0
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 126
+BeforeY : 195
+CurrentX: 127
+CurrentY: 195
+up
+acc     : 0
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 127
+BeforeY : 195
+CurrentX: 126
+CurrentY: 216
+down
+acc     : 36.38681079732051
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 126
+BeforeY : 216
+CurrentX: 126
+CurrentY: 237
+down
+acc     : 36.373066958946424
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 126
+BeforeY : 237
+CurrentX: 127
+CurrentY: 231
+up
+acc     : 0
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 127
+BeforeY : 231
+CurrentX: 126
+CurrentY: 212
+up
+acc     : 0
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 126
+BeforeY : 212
+CurrentX: 127
+CurrentY: 201
+up
+acc     : 0
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 127
+BeforeY : 201
+CurrentX: 127
+CurrentY: 197
+up
+acc     : 0
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 127
+BeforeY : 197
+CurrentX: 128
+CurrentY: 196
+up
+acc     : 0
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 128
+BeforeY : 196
+CurrentX: 129
+CurrentY: 195
+up
+acc     : 0
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 129
+BeforeY : 195
+CurrentX: 128
+CurrentY: 198
+down
+acc     : 5.291502622129181
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 128
+BeforeY : 198
+CurrentX: 127
+CurrentY: 230
+unvaild
+acc     : 55.4346462061408
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 127
+BeforeY : 230
+CurrentX: 128
+CurrentY: 239
+down
+acc     : 15.620499351813308
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 128
+BeforeY : 239
+CurrentX: 127
+CurrentY: 227
+up
+acc     : 0
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 127
+BeforeY : 227
+CurrentX: 127
+CurrentY: 210
+up
+acc     : 0
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 127
+BeforeY : 210
+CurrentX: 126
+CurrentY: 204
+up
+acc     : 0
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 126
+BeforeY : 204
+CurrentX: 128
+CurrentY: 201
+up
+acc     : 0
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 128
+BeforeY : 201
+CurrentX: 129
+CurrentY: 198
+up
+acc     : 0
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 129
+BeforeY : 198
+CurrentX: 127
+CurrentY: 203
+down
+acc     : 8.888194417315589
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 127
+BeforeY : 203
+CurrentX: 127
+CurrentY: 234
+unvaild
+acc     : 53.693575034635195
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 127
+BeforeY : 234
+CurrentX: 127
+CurrentY: 266
+unvaild
+acc     : 55.42562584220407
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 127
+BeforeY : 266
+CurrentX: 125
+CurrentY: 219
+up
+acc     : 0
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 125
+BeforeY : 219
+CurrentX: 124
+CurrentY: 210
+up
+acc     : 0
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 124
+BeforeY : 210
+CurrentX: 126
+CurrentY: 201
+up
+acc     : 0
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 126
+BeforeY : 201
+CurrentX: 127
+CurrentY: 201
+up
+acc     : 0
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 127
+BeforeY : 201
+CurrentX: 127
+CurrentY: 200
+up
+acc     : 0
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 127
+BeforeY : 200
+CurrentX: 127
+CurrentY: 199
+up
+acc     : 0
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 127
+BeforeY : 199
+CurrentX: 127
+CurrentY: 196
+up
+acc     : 0
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 127
+BeforeY : 196
+CurrentX: 124
+CurrentY: 201
+down
+acc     : 9.16515138991168
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 124
+BeforeY : 201
+CurrentX: 126
+CurrentY: 245
+unvaild
+acc     : 76.23647421018367
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 126
+BeforeY : 245
+CurrentX: 126
+CurrentY: 225
+up
+acc     : 0
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 126
+BeforeY : 225
+CurrentX: 129
+CurrentY: 206
+up
+acc     : 0
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 129
+BeforeY : 206
+CurrentX: 129
+CurrentY: 202
+up
+acc     : 0
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 129
+BeforeY : 202
+CurrentX: 130
+CurrentY: 196
+up
+acc     : 0
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 130
+BeforeY : 196
+CurrentX: 130
+CurrentY: 193
+up
+acc     : 0
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 130
+BeforeY : 193
+CurrentX: 130
+CurrentY: 193
+up
+acc     : 0
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 130
+BeforeY : 193
+CurrentX: 129
+CurrentY: 195
+down
+acc     : 3.605551275463989
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 129
+BeforeY : 195
+CurrentX: 124
+CurrentY: 215
+down
+acc     : 35.0
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 124
+BeforeY : 215
+CurrentX: 124
+CurrentY: 235
+down
+acc     : 34.64101615137755
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 124
+BeforeY : 235
+CurrentX: 126
+CurrentY: 213
+up
+acc     : 0
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 126
+BeforeY : 213
+CurrentX: 125
+CurrentY: 204
+up
+acc     : 0
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 125
+BeforeY : 204
+CurrentX: 123
+CurrentY: 203
+up
+acc     : 0
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 123
+BeforeY : 203
+CurrentX: 123
+CurrentY: 197
+up
+acc     : 0
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 123
+BeforeY : 197
+CurrentX: 122
+CurrentY: 198
+down
+acc     : 2.0
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 122
+BeforeY : 198
+CurrentX: 122
+CurrentY: 198
+up
+acc     : 0
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 122
+BeforeY : 198
+CurrentX: 122
+CurrentY: 208
+down
+acc     : 17.320508075688775
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 122
+BeforeY : 208
+CurrentX: 123
+CurrentY: 213
+down
+acc     : 8.717797887081348
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 123
+BeforeY : 213
+CurrentX: 123
+CurrentY: 215
+down
+acc     : 3.4641016151377544
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 123
+BeforeY : 215
+CurrentX: 120
+CurrentY: 208
+up
+acc     : 0
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 120
+BeforeY : 208
+CurrentX: 121
+CurrentY: 203
+up
+acc     : 0
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 121
+BeforeY : 203
+CurrentX: 121
+CurrentY: 199
+up
+acc     : 0
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 121
+BeforeY : 199
+CurrentX: 121
+CurrentY: 199
+up
+acc     : 0
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 121
+BeforeY : 199
+CurrentX: 122
+CurrentY: 209
+down
+acc     : 17.349351572897472
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 122
+BeforeY : 209
+CurrentX: 123
+CurrentY: 215
+down
+acc     : 10.44030650891055
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 123
+BeforeY : 215
+CurrentX: 125
+CurrentY: 216
+down
+acc     : 2.6457513110645907
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 125
+BeforeY : 216
+CurrentX: 125
+CurrentY: 206
+up
+acc     : 0
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 125
+BeforeY : 206
+CurrentX: 125
+CurrentY: 198
+up
+acc     : 0
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 125
+BeforeY : 198
+CurrentX: 126
+CurrentY: 196
+up
+acc     : 0
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 126
+BeforeY : 196
+CurrentX: 124
+CurrentY: 206
+down
+acc     : 17.435595774162696
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 124
+BeforeY : 206
+CurrentX: 128
+CurrentY: 208
+down
+acc     : 5.291502622129181
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 128
+BeforeY : 208
+CurrentX: 128
+CurrentY: 216
+down
+acc     : 13.856406460551018
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 128
+BeforeY : 216
+CurrentX: 127
+CurrentY: 214
+up
+acc     : 0
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 127
+BeforeY : 214
+CurrentX: 127
+CurrentY: 203
+up
+acc     : 0
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 127
+BeforeY : 203
+CurrentX: 127
+CurrentY: 196
+up
+acc     : 0
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 127
+BeforeY : 196
+CurrentX: 125
+CurrentY: 198
+down
+acc     : 4.0
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 125
+BeforeY : 198
+CurrentX: 126
+CurrentY: 202
+down
+acc     : 7.0
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 126
+BeforeY : 202
+CurrentX: 129
+CurrentY: 215
+down
+acc     : 22.715633383201094
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 129
+BeforeY : 215
+CurrentX: 127
+CurrentY: 221
+down
+acc     : 10.583005244258363
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 127
+BeforeY : 221
+CurrentX: 125
+CurrentY: 211
+up
+acc     : 0
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 125
+BeforeY : 211
+CurrentX: 126
+CurrentY: 203
+up
+acc     : 0
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 126
+BeforeY : 203
+CurrentX: 126
+CurrentY: 199
+up
+acc     : 0
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 126
+BeforeY : 199
+CurrentX: 125
+CurrentY: 201
+down
+acc     : 3.605551275463989
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 125
+BeforeY : 201
+CurrentX: 126
+CurrentY: 207
+down
+acc     : 10.44030650891055
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 126
+BeforeY : 207
+CurrentX: 127
+CurrentY: 229
+down
+acc     : 38.118237105091836
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 127
+BeforeY : 229
+CurrentX: 127
+CurrentY: 223
+up
+acc     : 0
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 127
+BeforeY : 223
+CurrentX: 126
+CurrentY: 211
+up
+acc     : 0
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 126
+BeforeY : 211
+CurrentX: 125
+CurrentY: 200
+up
+acc     : 0
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 125
+BeforeY : 200
+CurrentX: 125
+CurrentY: 201
+down
+acc     : 1.7320508075688772
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 125
+BeforeY : 201
+CurrentX: 126
+CurrentY: 217
+down
+acc     : 27.730849247724095
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 126
+BeforeY : 217
+CurrentX: 127
+CurrentY: 233
+down
+acc     : 27.730849247724095
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 127
+BeforeY : 233
+CurrentX: 126
+CurrentY: 220
+up
+acc     : 0
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 126
+BeforeY : 220
+CurrentX: 127
+CurrentY: 201
+up
+acc     : 0
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 127
+BeforeY : 201
+CurrentX: 127
+CurrentY: 204
+down
+acc     : 5.196152422706632
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 127
+BeforeY : 204
+CurrentX: 123
+CurrentY: 222
+down
+acc     : 31.432467291003423
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 123
+BeforeY : 222
+CurrentX: 124
+CurrentY: 238
+down
+acc     : 27.730849247724095
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 124
+BeforeY : 238
+CurrentX: 124
+CurrentY: 211
+up
+acc     : 0
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 124
+BeforeY : 211
+CurrentX: 125
+CurrentY: 197
+up
+acc     : 0
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 125
+BeforeY : 197
+CurrentX: 125
+CurrentY: 204
+down
+acc     : 12.12435565298214
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 125
+BeforeY : 204
+CurrentX: 108
+CurrentY: 256
+unvaild
+acc     : 91.65696918401787
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 0
+BeforeY : 0
+CurrentX: 9
+CurrentY: 166
+unvaild
+acc     : 287.66125912260065
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 9
+BeforeY : 166
+CurrentX: 63
+CurrentY: 220
+unvaild
+acc     : 108.0
+fingerIndex:1
+
+Frame   : 0
+BeforeX : 63
+BeforeY : 220
+CurrentX: 63
+CurrentY: 261
+unvaild
+acc     : 71.01408311032397
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 63
+BeforeY : 261
+CurrentX: 63
+CurrentY: 261
+up
+acc     : 0
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 63
+BeforeY : 261
+CurrentX: 71
+CurrentY: 267
+down
+acc     : 13.114877048604
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 71
+BeforeY : 267
+CurrentX: 75
+CurrentY: 267
+up
+acc     : 0
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 75
+BeforeY : 267
+CurrentX: 77
+CurrentY: 267
+up
+acc     : 0
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 77
+BeforeY : 267
+CurrentX: 76
+CurrentY: 267
+up
+acc     : 0
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 76
+BeforeY : 267
+CurrentX: 71
+CurrentY: 266
+up
+acc     : 0
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 71
+BeforeY : 266
+CurrentX: 63
+CurrentY: 265
+up
+acc     : 0
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 63
+BeforeY : 265
+CurrentX: 54
+CurrentY: 263
+up
+acc     : 0
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 54
+BeforeY : 263
+CurrentX: 50
+CurrentY: 264
+down
+acc     : 4.358898943540674
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 50
+BeforeY : 264
+CurrentX: 51
+CurrentY: 262
+up
+acc     : 0
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 51
+BeforeY : 262
+CurrentX: 49
+CurrentY: 262
+up
+acc     : 0
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 49
+BeforeY : 262
+CurrentX: 51
+CurrentY: 252
+up
+acc     : 0
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 51
+BeforeY : 252
+CurrentX: 10
+CurrentY: 194
+up
+acc     : 0
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 10
+BeforeY : 194
+CurrentX: 59
+CurrentY: 235
+unvaild
+acc     : 86.27861844049197
+fingerIndex:1
+
+Frame   : 0
+BeforeX : 59
+BeforeY : 235
+CurrentX: 9
+CurrentY: 207
+up
+acc     : 0
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 9
+BeforeY : 207
+CurrentX: 234
+CurrentY: 317
+unvaild
+acc     : 294.83045975611134
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 234
+BeforeY : 317
+CurrentX: 193
+CurrentY: 261
+up
+acc     : 0
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 193
+BeforeY : 261
+CurrentX: 134
+CurrentY: 214
+up
+acc     : 0
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 134
+BeforeY : 214
+CurrentX: 107
+CurrentY: 189
+up
+acc     : 0
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 107
+BeforeY : 189
+CurrentX: 104
+CurrentY: 173
+up
+acc     : 0
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 104
+BeforeY : 173
+CurrentX: 113
+CurrentY: 165
+up
+acc     : 0
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 113
+BeforeY : 165
+CurrentX: 129
+CurrentY: 158
+up
+acc     : 0
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 129
+BeforeY : 158
+CurrentX: 146
+CurrentY: 152
+up
+acc     : 0
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 146
+BeforeY : 152
+CurrentX: 167
+CurrentY: 150
+up
+acc     : 0
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 167
+BeforeY : 150
+CurrentX: 175
+CurrentY: 143
+up
+acc     : 0
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 175
+BeforeY : 143
+CurrentX: 179
+CurrentY: 138
+up
+acc     : 0
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 179
+BeforeY : 138
+CurrentX: 182
+CurrentY: 141
+down
+acc     : 6.0
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 182
+BeforeY : 141
+CurrentX: 185
+CurrentY: 148
+down
+acc     : 12.489995996796797
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 185
+BeforeY : 148
+CurrentX: 182
+CurrentY: 146
+up
+acc     : 0
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 182
+BeforeY : 146
+CurrentX: 171
+CurrentY: 145
+up
+acc     : 0
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 171
+BeforeY : 145
+CurrentX: 166
+CurrentY: 147
+down
+acc     : 6.082762530298219
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 166
+BeforeY : 147
+CurrentX: 165
+CurrentY: 148
+down
+acc     : 2.0
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 165
+BeforeY : 148
+CurrentX: 164
+CurrentY: 145
+up
+acc     : 0
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 164
+BeforeY : 145
+CurrentX: 163
+CurrentY: 145
+up
+acc     : 0
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 163
+BeforeY : 145
+CurrentX: 169
+CurrentY: 188
+unvaild
+acc     : 74.71947537289057
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 169
+BeforeY : 188
+CurrentX: 163
+CurrentY: 200
+down
+acc     : 21.633307652783937
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 163
+BeforeY : 200
+CurrentX: 162
+CurrentY: 194
+up
+acc     : 0
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 162
+BeforeY : 194
+CurrentX: 158
+CurrentY: 180
+up
+acc     : 0
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 158
+BeforeY : 180
+CurrentX: 158
+CurrentY: 170
+up
+acc     : 0
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 158
+BeforeY : 170
+CurrentX: 159
+CurrentY: 164
+up
+acc     : 0
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 159
+BeforeY : 164
+CurrentX: 161
+CurrentY: 163
+up
+acc     : 0
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 161
+BeforeY : 163
+CurrentX: 162
+CurrentY: 163
+up
+acc     : 0
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 162
+BeforeY : 163
+CurrentX: 169
+CurrentY: 161
+up
+acc     : 0
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 169
+BeforeY : 161
+CurrentX: 168
+CurrentY: 160
+up
+acc     : 0
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 168
+BeforeY : 160
+CurrentX: 171
+CurrentY: 159
+up
+acc     : 0
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 171
+BeforeY : 159
+CurrentX: 171
+CurrentY: 161
+down
+acc     : 3.4641016151377544
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 171
+BeforeY : 161
+CurrentX: 169
+CurrentY: 162
+down
+acc     : 2.6457513110645907
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 169
+BeforeY : 162
+CurrentX: 166
+CurrentY: 163
+down
+acc     : 3.4641016151377544
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 166
+BeforeY : 163
+CurrentX: 167
+CurrentY: 163
+up
+acc     : 0
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 167
+BeforeY : 163
+CurrentX: 167
+CurrentY: 163
+up
+acc     : 0
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 167
+BeforeY : 163
+CurrentX: 170
+CurrentY: 163
+up
+acc     : 0
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 170
+BeforeY : 163
+CurrentX: 172
+CurrentY: 165
+down
+acc     : 4.0
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 172
+BeforeY : 165
+CurrentX: 169
+CurrentY: 167
+down
+acc     : 4.58257569495584
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 169
+BeforeY : 167
+CurrentX: 166
+CurrentY: 168
+down
+acc     : 3.4641016151377544
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 166
+BeforeY : 168
+CurrentX: 165
+CurrentY: 171
+down
+acc     : 5.291502622129181
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 165
+BeforeY : 171
+CurrentX: 168
+CurrentY: 175
+down
+acc     : 7.54983443527075
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 168
+BeforeY : 175
+CurrentX: 168
+CurrentY: 176
+down
+acc     : 1.7320508075688772
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 168
+BeforeY : 176
+CurrentX: 169
+CurrentY: 176
+up
+acc     : 0
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 169
+BeforeY : 176
+CurrentX: 165
+CurrentY: 179
+down
+acc     : 6.557438524302
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 165
+BeforeY : 179
+CurrentX: 151
+CurrentY: 210
+unvaild
+acc     : 55.48873759602033
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 151
+BeforeY : 210
+CurrentX: 151
+CurrentY: 198
+up
+acc     : 0
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 151
+BeforeY : 198
+CurrentX: 151
+CurrentY: 183
+up
+acc     : 0
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 151
+BeforeY : 183
+CurrentX: 159
+CurrentY: 168
+up
+acc     : 0
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 159
+BeforeY : 168
+CurrentX: 159
+CurrentY: 166
+up
+acc     : 0
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 159
+BeforeY : 166
+CurrentX: 163
+CurrentY: 160
+up
+acc     : 0
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 163
+BeforeY : 160
+CurrentX: 158
+CurrentY: 154
+up
+acc     : 0
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 158
+BeforeY : 154
+CurrentX: 158
+CurrentY: 152
+up
+acc     : 0
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 158
+BeforeY : 152
+CurrentX: 159
+CurrentY: 150
+up
+acc     : 0
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 159
+BeforeY : 150
+CurrentX: 158
+CurrentY: 156
+down
+acc     : 10.44030650891055
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 158
+BeforeY : 156
+CurrentX: 159
+CurrentY: 169
+down
+acc     : 22.538855339169288
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 159
+BeforeY : 169
+CurrentX: 162
+CurrentY: 170
+down
+acc     : 3.4641016151377544
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 162
+BeforeY : 170
+CurrentX: 163
+CurrentY: 169
+up
+acc     : 0
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 163
+BeforeY : 169
+CurrentX: 161
+CurrentY: 165
+up
+acc     : 0
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 161
+BeforeY : 165
+CurrentX: 161
+CurrentY: 161
+up
+acc     : 0
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 161
+BeforeY : 161
+CurrentX: 163
+CurrentY: 156
+up
+acc     : 0
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 163
+BeforeY : 156
+CurrentX: 165
+CurrentY: 155
+up
+acc     : 0
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 165
+BeforeY : 155
+CurrentX: 162
+CurrentY: 156
+down
+acc     : 3.4641016151377544
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 162
+BeforeY : 156
+CurrentX: 164
+CurrentY: 156
+up
+acc     : 0
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 164
+BeforeY : 156
+CurrentX: 167
+CurrentY: 155
+up
+acc     : 0
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 167
+BeforeY : 155
+CurrentX: 165
+CurrentY: 155
+up
+acc     : 0
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 165
+BeforeY : 155
+CurrentX: 167
+CurrentY: 169
+down
+acc     : 24.331050121192877
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 167
+BeforeY : 169
+CurrentX: 168
+CurrentY: 170
+down
+acc     : 2.0
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 168
+BeforeY : 170
+CurrentX: 162
+CurrentY: 163
+up
+acc     : 0
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 162
+BeforeY : 163
+CurrentX: 163
+CurrentY: 157
+up
+acc     : 0
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 163
+BeforeY : 157
+CurrentX: 162
+CurrentY: 155
+up
+acc     : 0
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 162
+BeforeY : 155
+CurrentX: 165
+CurrentY: 154
+up
+acc     : 0
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 165
+BeforeY : 154
+CurrentX: 162
+CurrentY: 155
+down
+acc     : 3.4641016151377544
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 162
+BeforeY : 155
+CurrentX: 164
+CurrentY: 155
+up
+acc     : 0
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 164
+BeforeY : 155
+CurrentX: 165
+CurrentY: 156
+down
+acc     : 2.0
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 165
+BeforeY : 156
+CurrentX: 169
+CurrentY: 160
+down
+acc     : 8.0
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 169
+BeforeY : 160
+CurrentX: 170
+CurrentY: 179
+down
+acc     : 32.92415526630866
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 170
+BeforeY : 179
+CurrentX: 170
+CurrentY: 175
+up
+acc     : 0
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 170
+BeforeY : 175
+CurrentX: 166
+CurrentY: 167
+up
+acc     : 0
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 166
+BeforeY : 167
+CurrentX: 166
+CurrentY: 162
+up
+acc     : 0
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 166
+BeforeY : 162
+CurrentX: 168
+CurrentY: 159
+up
+acc     : 0
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 168
+BeforeY : 159
+CurrentX: 170
+CurrentY: 160
+down
+acc     : 2.6457513110645907
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 170
+BeforeY : 160
+CurrentX: 169
+CurrentY: 159
+up
+acc     : 0
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 169
+BeforeY : 159
+CurrentX: 169
+CurrentY: 159
+up
+acc     : 0
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 169
+BeforeY : 159
+CurrentX: 171
+CurrentY: 158
+up
+acc     : 0
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 171
+BeforeY : 158
+CurrentX: 169
+CurrentY: 160
+down
+acc     : 4.0
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 169
+BeforeY : 160
+CurrentX: 175
+CurrentY: 183
+down
+acc     : 40.28647415696737
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 175
+BeforeY : 183
+CurrentX: 173
+CurrentY: 183
+up
+acc     : 0
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 173
+BeforeY : 183
+CurrentX: 167
+CurrentY: 168
+up
+acc     : 0
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 167
+BeforeY : 168
+CurrentX: 165
+CurrentY: 166
+up
+acc     : 0
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 165
+BeforeY : 166
+CurrentX: 167
+CurrentY: 164
+up
+acc     : 0
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 167
+BeforeY : 164
+CurrentX: 168
+CurrentY: 164
+up
+acc     : 0
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 168
+BeforeY : 164
+CurrentX: 169
+CurrentY: 165
+down
+acc     : 2.0
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 169
+BeforeY : 165
+CurrentX: 169
+CurrentY: 166
+down
+acc     : 1.7320508075688772
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 169
+BeforeY : 166
+CurrentX: 171
+CurrentY: 167
+down
+acc     : 2.6457513110645907
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 171
+BeforeY : 167
+CurrentX: 173
+CurrentY: 170
+down
+acc     : 5.5677643628300215
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 173
+BeforeY : 170
+CurrentX: 176
+CurrentY: 172
+down
+acc     : 4.58257569495584
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 176
+BeforeY : 172
+CurrentX: 173
+CurrentY: 174
+down
+acc     : 4.58257569495584
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 173
+BeforeY : 174
+CurrentX: 171
+CurrentY: 170
+up
+acc     : 0
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 171
+BeforeY : 170
+CurrentX: 173
+CurrentY: 165
+up
+acc     : 0
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 173
+BeforeY : 165
+CurrentX: 178
+CurrentY: 166
+down
+acc     : 5.291502622129181
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 0
+BeforeY : 0
+CurrentX: 293
+CurrentY: 94
+unvaild
+acc     : 335.19695702676063
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 293
+BeforeY : 94
+CurrentX: 177
+CurrentY: 259
+unvaild
+acc     : 308.43313700054995
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 177
+BeforeY : 259
+CurrentX: 181
+CurrentY: 232
+up
+acc     : 0
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 181
+BeforeY : 232
+CurrentX: 185
+CurrentY: 218
+up
+acc     : 0
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 185
+BeforeY : 218
+CurrentX: 184
+CurrentY: 207
+up
+acc     : 0
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 184
+BeforeY : 207
+CurrentX: 189
+CurrentY: 191
+up
+acc     : 0
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 189
+BeforeY : 191
+CurrentX: 196
+CurrentY: 175
+up
+acc     : 0
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 196
+BeforeY : 175
+CurrentX: 198
+CurrentY: 163
+up
+acc     : 0
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 198
+BeforeY : 163
+CurrentX: 197
+CurrentY: 158
+up
+acc     : 0
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 197
+BeforeY : 158
+CurrentX: 186
+CurrentY: 157
+up
+acc     : 0
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 186
+BeforeY : 157
+CurrentX: 188
+CurrentY: 157
+up
+acc     : 0
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 188
+BeforeY : 157
+CurrentX: 196
+CurrentY: 155
+up
+acc     : 0
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 196
+BeforeY : 155
+CurrentX: 194
+CurrentY: 153
+up
+acc     : 0
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 194
+BeforeY : 153
+CurrentX: 187
+CurrentY: 153
+up
+acc     : 0
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 187
+BeforeY : 153
+CurrentX: 195
+CurrentY: 161
+down
+acc     : 16.0
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 195
+BeforeY : 161
+CurrentX: 202
+CurrentY: 177
+down
+acc     : 28.583211855912904
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 202
+BeforeY : 177
+CurrentX: 199
+CurrentY: 167
+up
+acc     : 0
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 199
+BeforeY : 167
+CurrentX: 199
+CurrentY: 162
+up
+acc     : 0
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 199
+BeforeY : 162
+CurrentX: 198
+CurrentY: 160
+up
+acc     : 0
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 198
+BeforeY : 160
+CurrentX: 196
+CurrentY: 156
+up
+acc     : 0
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 196
+BeforeY : 156
+CurrentX: 192
+CurrentY: 152
+up
+acc     : 0
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 192
+BeforeY : 152
+CurrentX: 193
+CurrentY: 151
+up
+acc     : 0
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 193
+BeforeY : 151
+CurrentX: 190
+CurrentY: 151
+up
+acc     : 0
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 190
+BeforeY : 151
+CurrentX: 192
+CurrentY: 153
+down
+acc     : 4.0
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 192
+BeforeY : 153
+CurrentX: 190
+CurrentY: 153
+up
+acc     : 0
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 190
+BeforeY : 153
+CurrentX: 197
+CurrentY: 161
+down
+acc     : 15.524174696260024
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 197
+BeforeY : 161
+CurrentX: 200
+CurrentY: 175
+down
+acc     : 24.43358344574123
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 200
+BeforeY : 175
+CurrentX: 199
+CurrentY: 174
+up
+acc     : 0
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 199
+BeforeY : 174
+CurrentX: 197
+CurrentY: 166
+up
+acc     : 0
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 197
+BeforeY : 166
+CurrentX: 193
+CurrentY: 157
+up
+acc     : 0
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 193
+BeforeY : 157
+CurrentX: 196
+CurrentY: 155
+up
+acc     : 0
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 196
+BeforeY : 155
+CurrentX: 200
+CurrentY: 155
+up
+acc     : 0
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 200
+BeforeY : 155
+CurrentX: 197
+CurrentY: 155
+up
+acc     : 0
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 197
+BeforeY : 155
+CurrentX: 198
+CurrentY: 154
+up
+acc     : 0
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 198
+BeforeY : 154
+CurrentX: 194
+CurrentY: 156
+down
+acc     : 5.291502622129181
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 194
+BeforeY : 156
+CurrentX: 197
+CurrentY: 171
+down
+acc     : 26.153393661244042
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 197
+BeforeY : 171
+CurrentX: 198
+CurrentY: 174
+down
+acc     : 5.291502622129181
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 198
+BeforeY : 174
+CurrentX: 193
+CurrentY: 165
+up
+acc     : 0
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 193
+BeforeY : 165
+CurrentX: 191
+CurrentY: 157
+up
+acc     : 0
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 191
+BeforeY : 157
+CurrentX: 191
+CurrentY: 155
+up
+acc     : 0
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 191
+BeforeY : 155
+CurrentX: 196
+CurrentY: 156
+down
+acc     : 5.291502622129181
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 196
+BeforeY : 156
+CurrentX: 195
+CurrentY: 155
+up
+acc     : 0
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 195
+BeforeY : 155
+CurrentX: 196
+CurrentY: 155
+up
+acc     : 0
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 196
+BeforeY : 155
+CurrentX: 197
+CurrentY: 157
+down
+acc     : 3.605551275463989
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 197
+BeforeY : 157
+CurrentX: 195
+CurrentY: 161
+down
+acc     : 7.211102550927978
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 195
+BeforeY : 161
+CurrentX: 198
+CurrentY: 176
+down
+acc     : 26.153393661244042
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 198
+BeforeY : 176
+CurrentX: 198
+CurrentY: 171
+up
+acc     : 0
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 198
+BeforeY : 171
+CurrentX: 197
+CurrentY: 163
+up
+acc     : 0
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 197
+BeforeY : 163
+CurrentX: 197
+CurrentY: 160
+up
+acc     : 0
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 197
+BeforeY : 160
+CurrentX: 194
+CurrentY: 159
+up
+acc     : 0
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 194
+BeforeY : 159
+CurrentX: 198
+CurrentY: 159
+up
+acc     : 0
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 198
+BeforeY : 159
+CurrentX: 195
+CurrentY: 158
+up
+acc     : 0
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 195
+BeforeY : 158
+CurrentX: 196
+CurrentY: 160
+down
+acc     : 3.605551275463989
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 196
+BeforeY : 160
+CurrentX: 197
+CurrentY: 164
+down
+acc     : 7.0
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 197
+BeforeY : 164
+CurrentX: 204
+CurrentY: 192
+down
+acc     : 49.0
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 204
+BeforeY : 192
+CurrentX: 197
+CurrentY: 171
+up
+acc     : 0
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 197
+BeforeY : 171
+CurrentX: 198
+CurrentY: 166
+up
+acc     : 0
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 198
+BeforeY : 166
+CurrentX: 195
+CurrentY: 164
+up
+acc     : 0
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 195
+BeforeY : 164
+CurrentX: 197
+CurrentY: 164
+up
+acc     : 0
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 197
+BeforeY : 164
+CurrentX: 196
+CurrentY: 164
+up
+acc     : 0
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 196
+BeforeY : 164
+CurrentX: 196
+CurrentY: 166
+down
+acc     : 3.4641016151377544
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 196
+BeforeY : 166
+CurrentX: 200
+CurrentY: 193
+down
+acc     : 46.93612681080534
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 200
+BeforeY : 193
+CurrentX: 198
+CurrentY: 166
+up
+acc     : 0
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 198
+BeforeY : 166
+CurrentX: 197
+CurrentY: 165
+up
+acc     : 0
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 197
+BeforeY : 165
+CurrentX: 198
+CurrentY: 165
+up
+acc     : 0
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 198
+BeforeY : 165
+CurrentX: 198
+CurrentY: 164
+up
+acc     : 0
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 198
+BeforeY : 164
+CurrentX: 196
+CurrentY: 163
+up
+acc     : 0
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 196
+BeforeY : 163
+CurrentX: 199
+CurrentY: 165
+down
+acc     : 4.58257569495584
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 199
+BeforeY : 165
+CurrentX: 199
+CurrentY: 181
+down
+acc     : 27.712812921102035
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 199
+BeforeY : 181
+CurrentX: 204
+CurrentY: 193
+down
+acc     : 21.37755832643195
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 204
+BeforeY : 193
+CurrentX: 202
+CurrentY: 180
+up
+acc     : 0
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 202
+BeforeY : 180
+CurrentX: 201
+CurrentY: 177
+up
+acc     : 0
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 201
+BeforeY : 177
+CurrentX: 199
+CurrentY: 175
+up
+acc     : 0
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 199
+BeforeY : 175
+CurrentX: 200
+CurrentY: 175
+up
+acc     : 0
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 200
+BeforeY : 175
+CurrentX: 201
+CurrentY: 176
+down
+acc     : 2.0
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 201
+BeforeY : 176
+CurrentX: 202
+CurrentY: 178
+down
+acc     : 3.605551275463989
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 202
+BeforeY : 178
+CurrentX: 203
+CurrentY: 193
+down
+acc     : 26.0
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 203
+BeforeY : 193
+CurrentX: 204
+CurrentY: 191
+up
+acc     : 0
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 204
+BeforeY : 191
+CurrentX: 203
+CurrentY: 178
+up
+acc     : 0
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 203
+BeforeY : 178
+CurrentX: 202
+CurrentY: 175
+up
+acc     : 0
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 202
+BeforeY : 175
+CurrentX: 199
+CurrentY: 174
+up
+acc     : 0
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 199
+BeforeY : 174
+CurrentX: 203
+CurrentY: 176
+down
+acc     : 5.291502622129181
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 203
+BeforeY : 176
+CurrentX: 202
+CurrentY: 176
+up
+acc     : 0
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 202
+BeforeY : 176
+CurrentX: 203
+CurrentY: 177
+down
+acc     : 2.0
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 203
+BeforeY : 177
+CurrentX: 205
+CurrentY: 177
+up
+acc     : 0
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 205
+BeforeY : 177
+CurrentX: 205
+CurrentY: 177
+up
+acc     : 0
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 205
+BeforeY : 177
+CurrentX: 205
+CurrentY: 178
+down
+acc     : 1.7320508075688772
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 205
+BeforeY : 178
+CurrentX: 209
+CurrentY: 182
+down
+acc     : 8.0
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 209
+BeforeY : 182
+CurrentX: 212
+CurrentY: 186
+down
+acc     : 7.54983443527075
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 212
+BeforeY : 186
+CurrentX: 208
+CurrentY: 183
+up
+acc     : 0
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 208
+BeforeY : 183
+CurrentX: 205
+CurrentY: 179
+up
+acc     : 0
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 205
+BeforeY : 179
+CurrentX: 203
+CurrentY: 177
+up
+acc     : 0
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 203
+BeforeY : 177
+CurrentX: 202
+CurrentY: 177
+up
+acc     : 0
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 202
+BeforeY : 177
+CurrentX: 204
+CurrentY: 179
+down
+acc     : 4.0
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 204
+BeforeY : 179
+CurrentX: 206
+CurrentY: 180
+down
+acc     : 2.6457513110645907
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 206
+BeforeY : 180
+CurrentX: 206
+CurrentY: 180
+up
+acc     : 0
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 206
+BeforeY : 180
+CurrentX: 203
+CurrentY: 178
+up
+acc     : 0
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 203
+BeforeY : 178
+CurrentX: 203
+CurrentY: 179
+down
+acc     : 1.7320508075688772
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 203
+BeforeY : 179
+CurrentX: 206
+CurrentY: 197
+down
+acc     : 31.32091952673165
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 206
+BeforeY : 197
+CurrentX: 201
+CurrentY: 191
+up
+acc     : 0
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 201
+BeforeY : 191
+CurrentX: 201
+CurrentY: 180
+up
+acc     : 0
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 201
+BeforeY : 180
+CurrentX: 201
+CurrentY: 177
+up
+acc     : 0
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 201
+BeforeY : 177
+CurrentX: 200
+CurrentY: 177
+up
+acc     : 0
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 200
+BeforeY : 177
+CurrentX: 200
+CurrentY: 178
+down
+acc     : 1.7320508075688772
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 200
+BeforeY : 178
+CurrentX: 198
+CurrentY: 178
+up
+acc     : 0
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 198
+BeforeY : 178
+CurrentX: 195
+CurrentY: 178
+up
+acc     : 0
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 195
+BeforeY : 178
+CurrentX: 202
+CurrentY: 206
+down
+acc     : 49.0
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 202
+BeforeY : 206
+CurrentX: 200
+CurrentY: 201
+up
+acc     : 0
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 200
+BeforeY : 201
+CurrentX: 200
+CurrentY: 190
+up
+acc     : 0
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 200
+BeforeY : 190
+CurrentX: 197
+CurrentY: 183
+up
+acc     : 0
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 197
+BeforeY : 183
+CurrentX: 196
+CurrentY: 179
+up
+acc     : 0
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 196
+BeforeY : 179
+CurrentX: 197
+CurrentY: 179
+up
+acc     : 0
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 197
+BeforeY : 179
+CurrentX: 199
+CurrentY: 179
+up
+acc     : 0
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 199
+BeforeY : 179
+CurrentX: 201
+CurrentY: 180
+down
+acc     : 2.6457513110645907
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 201
+BeforeY : 180
+CurrentX: 200
+CurrentY: 181
+down
+acc     : 2.0
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 200
+BeforeY : 181
+CurrentX: 199
+CurrentY: 180
+up
+acc     : 0
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 199
+BeforeY : 180
+CurrentX: 200
+CurrentY: 180
+up
+acc     : 0
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 200
+BeforeY : 180
+CurrentX: 200
+CurrentY: 180
+up
+acc     : 0
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 200
+BeforeY : 180
+CurrentX: 193
+CurrentY: 180
+up
+acc     : 0
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 193
+BeforeY : 180
+CurrentX: 226
+CurrentY: 135
+unvaild
+acc     : 84.64041587799531
+fingerIndex:1
+
+Frame   : 0
+BeforeX : 226
+BeforeY : 135
+CurrentX: 306
+CurrentY: 103
+unvaild
+acc     : 97.32420048477151
+fingerIndex:2
+
+Frame   : 0
+BeforeX : 306
+BeforeY : 103
+CurrentX: 319
+CurrentY: 215
+unvaild
+acc     : 194.42479265772664
+fingerIndex:3
+
+Frame   : 0
+BeforeX : 319
+BeforeY : 215
+CurrentX: 190
+CurrentY: 182
+up
+acc     : 0
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 190
+BeforeY : 182
+CurrentX: 227
+CurrentY: 131
+unvaild
+acc     : 95.77055915050303
+fingerIndex:1
+
+Frame   : 0
+BeforeX : 227
+BeforeY : 131
+CurrentX: 307
+CurrentY: 102
+unvaild
+acc     : 94.46163242290491
+fingerIndex:2
+
+Frame   : 0
+BeforeX : 307
+BeforeY : 102
+CurrentX: 190
+CurrentY: 183
+unvaild
+acc     : 182.68004817165996
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 190
+BeforeY : 183
+CurrentX: 229
+CurrentY: 127
+unvaild
+acc     : 104.54185764563398
+fingerIndex:1
+
+Frame   : 0
+BeforeX : 229
+BeforeY : 127
+CurrentX: 307
+CurrentY: 98
+unvaild
+acc     : 92.7739187487518
+fingerIndex:2
+
+Frame   : 0
+BeforeX : 307
+BeforeY : 98
+CurrentX: 182
+CurrentY: 193
+unvaild
+acc     : 206.63978319771826
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 182
+BeforeY : 193
+CurrentX: 232
+CurrentY: 124
+unvaild
+acc     : 129.549218446118
+fingerIndex:1
+
+Frame   : 0
+BeforeX : 232
+BeforeY : 124
+CurrentX: 319
+CurrentY: 97
+unvaild
+acc     : 98.77246579892596
+fingerIndex:2
+
+Frame   : 0
+BeforeX : 319
+BeforeY : 97
+CurrentX: 185
+CurrentY: 182
+unvaild
+acc     : 199.07536261426225
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 185
+BeforeY : 182
+CurrentX: 309
+CurrentY: 91
+unvaild
+acc     : 200.5467526538388
+fingerIndex:1
+
+Frame   : 0
+BeforeX : 309
+BeforeY : 91
+CurrentX: 190
+CurrentY: 179
+unvaild
+acc     : 193.3726971420733
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 190
+BeforeY : 179
+CurrentX: 199
+CurrentY: 187
+down
+acc     : 16.522711641858304
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 199
+BeforeY : 187
+CurrentX: 213
+CurrentY: 250
+unvaild
+acc     : 110.01363551851198
+fingerIndex:0
+
+Frame   : 0
+BeforeX : 213
+BeforeY : 250
+CurrentX: 209
+CurrentY: 267
+down
+acc     : 29.715315916207253
+fingerIndex:0
+

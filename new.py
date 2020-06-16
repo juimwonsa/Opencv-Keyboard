@@ -2,6 +2,7 @@ import cv2
 import numpy as np
 import copy
 import math
+import finger_log
 #from appscript import app
 
 # Environment:
@@ -16,6 +17,16 @@ threshold = 60  #  BINARY threshold
 blurValue = 41  # GaussianBlur parameter
 bgSubThreshold = 50
 learningRate = 0
+
+framenum = 0    # current frame number
+beforecX = 0    # before X point
+beforecY = 0    # before Y point
+cX = 0          # current X point
+cY = 0          # current Y point
+beforeVec = 0   # before Vector
+beforeAcc = 0   # before Acc
+fingerIndex = 0 # finger Number Index
+
 
 # variables
 isBgCaptured = 0   # bool, whether the background captured
@@ -100,7 +111,7 @@ def getFingerPosition(max_contour, img_result, debug):
             cv2.circle(img_result, tuple(point), 15, [ 0, 0, 0], -1)
 
 
-  # STEP 6-2
+        # STEP 6-2
     hull = cv2.convexHull(max_contour, returnPoints=False)
     defects = cv2.convexityDefects(max_contour, hull)
 
@@ -186,6 +197,10 @@ camera.set(10,200)
 cv2.namedWindow('trackbar')
 cv2.createTrackbar('trh1', 'trackbar', threshold, 100, printThreshold)
 
+# init
+
+
+
 
 while camera.isOpened():
     ret, frame = camera.read()
@@ -217,7 +232,7 @@ while camera.isOpened():
         length = len(contours)
         maxArea = -1
         if length > 0:
-            for i in range(length):  # find the biggest contour (according to area)
+            for i in range(length):  # find the biggest contour (ording to area)
                 temp = contours[i]
                 area = cv2.contourArea(temp)
                 if area > maxArea:
@@ -234,12 +249,19 @@ while camera.isOpened():
             ret,points = getFingerPosition(res,drawing,debug=False)
             
             if ret > 0 and len(points) > 0:  
+                points.sort()
                 for point in points:
                     cv2.circle(drawing, point, 20, [ 255, 0, 255], 5)
-                    print(point)
-
+                    cv2.putText(drawing, str(fingerIndex), point, cv2.FONT_HERSHEY_SIMPLEX, 1.5, (255,255,255), thickness=2)
+                    beforecX, beforecY, beforeVec, beforeAcc, acc, isclick = finger_log.fingerLog(fingerIndex, framenum, beforecX, beforecY, point[0], point[1], beforeVec, beforeAcc)
+                    if isclick == True:
+                        print(point)
+                        isclick = False
+                    fingerIndex = fingerIndex + 1
+                    
+                        
+                fingerIndex = 0
             cv2.drawContours(drawing, [res], 0, (0, 255, 0), 2)
-            
             cv2.drawContours(drawing, [hull], 0, (0, 0, 255), 3)
 
             isFinishCal,cnt = calculateFingers(res,drawing)
