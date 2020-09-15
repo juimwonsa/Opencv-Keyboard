@@ -363,6 +363,7 @@ while (True):
         contours, hierarchy = cv2.findContours(thresh1, cv2.RETR_TREE, cv2.CHAIN_APPROX_SIMPLE)
         length = len(contours)
         maxArea = -1
+        secondMaxArea = -1
         if length > 0:
             for i in range(length):  # find the biggest contour (ording to area)
                 temp = contours[i]
@@ -370,11 +371,12 @@ while (True):
                 if area > maxArea:
                     maxArea = area
                     ci = i
+                elif area > secondMaxArea:
+                    secondMaxArea = area
+                    cii = i
 
             res = contours[ci]
             hull = cv2.convexHull(res)
-            
-
                 
             drawing = np.zeros(img.shape, np.uint8)
             
@@ -389,9 +391,7 @@ while (True):
                     if isclick == True:
                         print(point)
                         isclick = False
-                    fingerIndex = fingerIndex + 1
-                    
-                        
+                    fingerIndex = fingerIndex + 1                        
                 fingerIndex = 0
             cv2.drawContours(drawing, [res], 0, (0, 255, 0), 2)
             cv2.drawContours(drawing, [hull], 0, (0, 0, 255), 3)
